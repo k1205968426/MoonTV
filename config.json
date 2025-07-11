@@ -77,5 +77,11 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+        },
+    "ikun": {
+      "api": "https://mtzy.me/api.php/provide/vod",
+      "name": "茅台资源"
+      "detail": "https://mtzy.me"
+    }
   }
 }
